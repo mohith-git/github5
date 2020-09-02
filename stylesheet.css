@@ -204,9 +204,13 @@ color:rgb(182, 224, 28);
 
 .container1,.container2,.container3,.container4,.container5{
 
-position: absolute;
-top:70vw;
-left:40vw;
+display:flex;
+justify-items:center;
+align-items:center;
+position:absolute;
+top:40vw;
+left:20vw;
+
 }
  
 
