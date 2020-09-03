@@ -204,11 +204,7 @@ color:rgb(182, 224, 28);
 
 .container1,.container2,.container3,.container4,.container5{
 
-display:flex;
-justify-items:center;
-align-items:center;
-position:absolute;
-top:40vw;
+top:70vw;
 left:20vw;
 
 }
