@@ -215,7 +215,7 @@ font-size:45px;
 
 }
 
-
+#scorecard{font-size:70px}
 
 }
 
@@ -238,5 +238,8 @@ p,.hint{
 
 font-size:10px;
 }
+
+#scorecard{font-size:70px}
+
 
 }
