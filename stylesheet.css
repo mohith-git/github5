@@ -180,12 +180,11 @@ padding: 10px;
 select:hover{
 
     box-shadow: 0 2px 2px 0 rgb(240, 233, 233);
+    outline:none;
+
 }
 
-select:focus{
 
-     outline:hidden;
-}
 
 
 
