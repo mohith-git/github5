@@ -241,10 +241,13 @@ p,.hint{
 font-size:10px;
 }
 
-#result1,#result2,#result3,#result4,#result5{font-size:15px;}
+#result1,#result2,#result3,#result4,#result5{font-size:10px;}
 
 #scorecard{font-size:70px}
 
+.prev,.nxt{ 
+font-size:10px;
+}
 
 }
 
